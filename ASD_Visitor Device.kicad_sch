@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "010bfe3a-25b4-4e5c-af8a-ed9b8c1c1724")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 134.62 146.05)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4a2a67de-59dd-4a82-a065-ee206621d4dc")
+		(property "Sheetname" "DC _Supply"
+			(at 134.62 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DC _Supply.kicad_sch"
+			(at 134.62 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ASD_Visitor Device"
+				(path "/010bfe3a-25b4-4e5c-af8a-ed9b8c1c1724"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 154.94)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6abb9aa2-b1cf-44d7-98fd-1d254dd80ed0")
+		(property "Sheetname" "Audio_Streo"
+			(at 134.62 154.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 134.62 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ASD_Visitor Device"
+				(path "/010bfe3a-25b4-4e5c-af8a-ed9b8c1c1724"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 137.16)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "96d2a75a-c54b-4200-9be8-c315f98ffc70")
+		(property "Sheetname" "esp s3"
+			(at 134.62 136.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Esp_s3.kicad_sch"
+			(at 134.62 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ASD_Visitor Device"
+				(path "/010bfe3a-25b4-4e5c-af8a-ed9b8c1c1724"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 163.83)
+		(size 12.7 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e2f75f1d-0d35-4aac-abdf-80461605487f")
+		(property "Sheetname" "ON_OFF_Circuit"
+			(at 134.62 163.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ON_OFF_Circuit.kicad_sch"
+			(at 134.62 169.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ASD_Visitor Device"
+				(path "/010bfe3a-25b4-4e5c-af8a-ed9b8c1c1724"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 128.27)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fd272a14-e757-45b9-ba93-4fd25b655a04")
+		(property "Sheetname" "wrover"
+			(at 134.62 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "wrover.kicad_sch"
+			(at 134.62 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ASD_Visitor Device"
+				(path "/010bfe3a-25b4-4e5c-af8a-ed9b8c1c1724"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

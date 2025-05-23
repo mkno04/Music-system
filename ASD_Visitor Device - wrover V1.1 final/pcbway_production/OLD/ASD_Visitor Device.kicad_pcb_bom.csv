@@ -1,0 +1,33 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+"C1, C11, C13, C15, C16, C18, C21, C22, C24, C25, C3, C31, C5, C8",14,10uF,C_0603_1608Metric,,smt
+"C10, C17, C20, C7",4,2.2uF,C_0603_1608Metric,,smt
+"C12, C14, C2, C23, C27, C28, C29, C30, C32, C33, C34, C35, C4, C6, C9",15,0.1uF,C_0603_1608Metric,,smt
+"C19, C26",2,0.1uF,C_0402_1005Metric,,smt
+D1,1,SS34,D_SMA,,smt
+D2,1,SMAJ5.0A,D_SMA,,smt
+J1,1,SJ2-3574A-SMT-TR,CUI_SJ2-3574A-SMT-TR,,smt
+J10,1,Conn_01x05,JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical,,tht
+J11,1,1051620001,105162-0001_MOL,,smt
+J2,1,Conn_01x02,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,,tht
+J3,1,Conn_01x03,JST-4P_1.25mm_TH,,tht
+J4,1,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,,tht
+"J5, J9",2,Conn_01x02,PinHeader_1x02_P1.27mm_Vertical,,tht
+J6,1,Conn_01x09,JST-8P_1.25mm,,smt
+J7,1,Conn_01x04,JST-4P_1.25mm,,smt
+J8,1,Serial Programmer,PinHeader_1x04_P2.00mm_Vertical,,tht
+L1,1,SRN8040-100M_INDUC,IND_IHLP-2525CZ-01_VIS-M,,smt
+L2,1,2.2uH,IND_IHLP-2525CZ-01_VIS-M,,smt
+"Q1, Q2, Q3",3,SI2304,SOT-23,,smt
+"R1, R2",2,470E,R_0402_1005Metric,,smt
+R10,1,270E,R_0402_1005Metric,,smt
+"R11, R14",2,100E,R_0402_1005Metric,,smt
+"R12, R13, R15, R16, R18, R19, R20, R21, R22, R23, R24, R25, R26, R4, R5, R7, R9",17,10K,R_0402_1005Metric,,smt
+R17,1,470K,R_0402_1005Metric,,smt
+R3,1,0E,R_0402_1005Metric,,smt
+R6,1,1K,R_0402_1005Metric,,smt
+R8,1,560E,R_0402_1005Metric,,smt
+U1,1,PCM5102A,TSSOP-20_4.4x6.5mm_P0.65mm,,smt
+U2,1,BQ21040DBVR,SOT-23-6,,smt
+"U3, U4",2,TPS63001DRCR,TPS63000DRCR,,smt
+U5,1,ESP32-S3-WROOM,ESP32-S3-WROOM1-N4R2,,smt
+U6,1,ESP32-WROVER-IE-N16R8 ,XCVR_ESP32-WROVER,,smt

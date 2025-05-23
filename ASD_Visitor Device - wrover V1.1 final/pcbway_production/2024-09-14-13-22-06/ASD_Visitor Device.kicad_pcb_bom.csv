@@ -1,0 +1,36 @@
+﻿Designator,Quantity,Value,Description,Link,Mount_type
+"C1, C11, C13, C15, C16, C18, C21, C22, C24, C25, C3, C31, C5, C8",14,10uF,C_0603_1608Metric,,smt
+"C10, C17, C20, C7",4,2.2uF,C_0603_1608Metric,,smt
+"C12, C14, C2, C23, C27, C28, C29, C30, C32, C33, C34, C35, C4, C6, C9",15,0.1uF,C_0603_1608Metric,,smt
+"C19, C26",2,0.1uF,C_0402_1005Metric,,smt
+D1,1,SS34,D_SMA,,smt
+D2,1,SMAJ5.0A,D_SMA,,smt
+"D3, D4",2,1N4148,D_SOD-323,,smt
+D5,1,RED LED,LED_0402_1005Metric,,smt
+J1,1,SJ2-3574A-SMT-TR,"3.50mm (0.141"", 1/8"", Mini Plug) - Headphone Phone Jack Stereo",,smt
+J2,1,Conn_01x03,3 pin JST 1.25mm Through Hole Header Vertical Straight,,tht
+J5,1,Conn_01x13,JST_GH_SM13B-GHS-TB_1x13-1MP_P1.25mm_Horizontal,,smt
+J8,1,Conn_01x05,JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical,,tht
+J9,1,1051620001,Memory Card Connectors 1.45H MICRO SD HEADER WITH D/C PIN ,mouser,smt
+"L1, L2",2,SRN8040-100M_INDUCwaveshare,2.2uH (2R2) - 10A - SMD ASPI-0630LR-2R2 Inductor,,smt
+"Q1, Q2, Q3, Q5",4,SI2304,SI2304 A4SHB SOT23 N-CH MOSFET,,smt
+Q4,1,Si2301,SI2301 A1SHB SOT23 P-CH MOSFET,,smt
+"R1, R2, R34",3,470E,R_0402_1005Metric,,smt
+R10,1,270E,R_0402_1005Metric,,smt
+"R11, R14",2,100E,R_0402_1005Metric,,smt
+"R12, R13, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R28, R29, R31, R35, R4, R5, R7, R9",22,10K,R_0402_1005Metric,,smt
+R27,1,200K,R_0402_1005Metric,,smt
+R3,1,0E,R_0402_1005Metric,,smt
+R30,1,220E,R_0402_1005Metric,,smt
+R32,1,220K,R_0402_1005Metric,,smt
+R33,1,100K,R_0402_1005Metric,,smt
+R6,1,1K,R_0402_1005Metric,,smt
+R8,1,560E,R_0402_1005Metric,,smt
+SW1,1,Tactile Switches WS-TATU Tact Switch,,mouser,tht
+U1,1,PCM5102A,TSSOP-20_4.4x6.5mm_P0.65mm,,smt
+U2,1,BQ21040DBVR,SOT-23-6,,smt
+"U3, U4",2,TPS63001DRCR,TPS63001,,smt
+U5,1,ESP32-S3-WROOM,ESP32-S3-WROOM1-N4R2,,smt
+U6,1,XCVR_ESP32-WROVER,ESP32-WROVER-IE-N16R8 ,,smt
+Display,1,,1.28inch Touch LCD,waveshare,
+SD Card,1,,sandisk ultra 32gb,,
